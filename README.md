@@ -1,4 +1,4 @@
-| [Home Page](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/) | [Visualizing Government Debt](datavisualization) | 
+| [Home Page](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/) | [Visualizing Government Debt](datavisualization.md) | 
 # Hernandez-Berrios-Portfolio
 
 # TSWD
@@ -15,6 +15,6 @@ I hope to learn how to use Github and other technical platforms. I also look for
 
 # Portfolio Pages
 
-## Assignment: [Visualizing Government Debt](datavisualization)
+## Assignment: [Visualizing Government Debt](datavisualization.md)
 
 
