@@ -9,3 +9,21 @@
 The U.S. has been in the top 3 most indebted countries from 2015 to 2020 among the G20. Some G20 countries have been excluded due to a lack of data such as Argentina, China, India, Indonesia, Russia, and Saudi Arabia.
 
 <div class='tableauPlaceholder' id='viz1706400563433' style='position: relative'><noscript><a href='#'><img alt='The United States is Among the Top Most Indebt Countries in the G20The U.S. has been in the top 3 most indebted countries from 2015 to 2020 among the G20. Some G20 countries have been excluded due to a lack of data such as Argentina, China, India, Indone 'src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheUSisAmongtheTopMostIndebtCountriesintheG20&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TheUSisAmongtheTopMostIndebtCountriesintheG20&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image'value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheUSisAmongtheTopMostIndebtCountriesintheG20&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /<paramname='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1706400563433');var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+
+# Different Methods of Visualization Analysis
+
+The above visualizations demonstrates 3 types of graphics; a bar chart, a heat map, and a line graph. The bar chart and heat map work great when you are doing many country comparisons. The heat map is nice because it allows you to see, with color, similar areas that have a high value or low value a lot easier than a line graph or bart chart would. The data for all three graphics come from the OECD data for government debt and all show the same information. The bar chart is a little more specific as it shows only the year 2015 while the heat map shows data for all the countries from 1995-2022. 
+
+I chose the line graph as my third visualization because it was something we did not do with the two previous examples. It was also the best graphic to see different countries within the G20 from 2015 to 2020. The line graph allows us to tract the changes in debt much easier than a heat map or bar chart would. I included the countries that had data from the OECD website and did include in my caption that some G20 countries were excluded. I added a blue color for the U.S. since that was my focus for the title and graphic. The rest of the countries are greyed out since the U.S. is the area I want my reader to focus on. I also chose blue to represent the U.S. since it tends to have a connotation with that color. 
+
+
+
+
+
+
+
+
+
+
+
+
