@@ -20,7 +20,8 @@ I chose the line graph as my third visualization because it was something we did
 
 
 
-
+Source for data in all the graphics:
+OECD (2024), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 29 January 2024)
 
 
 
