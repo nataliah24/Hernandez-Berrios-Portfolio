@@ -1,4 +1,4 @@
-| [Home Page](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/) | [Visualizing Government Debt](datavisualization.md) | 
+| [Home Page](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/) | [Visualizing Government Debt](datavisualization.md) | [Critique By Design](critiquebydesign.md)
 # Hernandez-Berrios-Portfolio
 
 # TSWD
@@ -17,4 +17,5 @@ I hope to learn how to use Github and other technical platforms. I also look for
 
 ## Assignment: [Visualizing Government Debt](datavisualization.md)
 
+## Assignment: [Critique By Design](critiquebydesign.md)
 
