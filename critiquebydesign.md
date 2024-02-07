@@ -42,27 +42,27 @@ Following my critique I knew I wanted to focus on the years 2015 to 2020 since t
 After doing my sketches, I showed them to two students so I could get their feedback on what they thought the sketch was, what they liked or didn't liked, and what they would do differently. 
 
 Student 1, mid 20s
-*Can you describe to me what this is telling you?
-  *Shows the relationship of books sales and all other products between 2015-2020 (for sketch 1 and 2)
-  *They thought that for Sketch 1 y-axis is amount sold  
-  *For Sketch 2, shows that all products are rising in price but books aren’t
+* Can you describe to me what this is telling you?
+  * Shows the relationship of books sales and all other products between 2015-2020 (for sketch 1 and 2)
+  * They thought that for Sketch 1 y-axis is amount sold  
+  * For Sketch 2, shows that all products are rising in price but books aren’t
 * Is there anything you find surprising or confusing?
   * "Is it the price per book the y-axis?" (referring to sketch 1)
   * Unsure what hte numbers mean in sketch 2
 * Who do you think is the intended audience for this?
-  *A lot of people, teachers, professors, stores that sell books and other things 
+  * A lot of people, teachers, professors, stores that sell books and other things 
 * Is there anything you would change or do differently?
-  *First sketch, needs labels for the y-axis and a title 
-  *The second sketch, specify what the numbers are: are they price or what are they?
-  *Last sketch is good but would change the title
+  * First sketch, needs labels for the y-axis and a title 
+  * The second sketch, specify what the numbers are: are they price or what are they?
+  * Last sketch is good but would change the title
 
 Student 2, mid 20s 
-*Can you tell me what you think this is?
-  *Sketch 1, it does not have a title so it is hard to tell what it is. There is also no label on the y-axis which does not help. They thought it was something about how many products were sold vs books 
-  *Sketch 2, tells us that all products are rising but not books. Is unsure what HICP is and how it relates to viz
-  *Sketch 3, tells us about the difference in HICP in "all products" vs "books". It says consumer price inflation has not affected books as much as products 
-*Is there anything you would change or do differently?
-  *For the third sketch, change the title to something less biased 
+* Can you tell me what you think this is?
+  * Sketch 1, it does not have a title so it is hard to tell what it is. There is also no label on the y-axis which does not help. They thought it was something about how many products were sold vs books 
+  * Sketch 2, tells us that all products are rising but not books. Is unsure what HICP is and how it relates to viz
+  * Sketch 3, tells us about the difference in HICP in "all products" vs "books". It says consumer price inflation has not affected books as much as products 
+* Is there anything you would change or do differently?
+  * For the third sketch, change the title to something less biased 
 
 
 
