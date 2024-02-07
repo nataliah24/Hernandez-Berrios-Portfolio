@@ -64,7 +64,41 @@ Student 2, mid 20s
 * Is there anything you would change or do differently?
   * For the third sketch, change the title to something less biased 
 
+After getting the opinion of my peers, I moved on to downloading the data and transferring my sketches to Tableau. Since sketch 1 and 2 were the most confusing ones and both my peers seemed to like the 3rd sketch better, I decided to use that one as my reference for making the viz in Tableau. 
 
+## Tweaking Data and Playing around with Tablaeu ##
+
+When I downloaded the data to my computer and opened it up on Excel I realized that the data set listed all the countries and their HICP for each month of the year from 1990 to 2020 (snapshot included below). I had to change the data a bit so I could work with averages for each year from 2015 to 2020. I seperated the data into a new sheet and only focused on the EU countries (which were already merged into a category by the dataset). From there I did an excel function to average months 1-12 for every year for the EU and created a new data table with the information I needed (snapshot included below).
+
+**Screenshot of original excel data**
+![image](https://github.com/nataliah24/Hernandez-Berrios-Portfolio/assets/156723081/99a2a903-2f7b-4915-ad2c-c1ef4f7681ac)
+![image](https://github.com/nataliah24/Hernandez-Berrios-Portfolio/assets/156723081/4b7149ee-0229-4e79-ab0a-086d7463cc03)
+
+**Screenshot of my new datatable in excel (averages for each year)**
+![image](https://github.com/nataliah24/Hernandez-Berrios-Portfolio/assets/156723081/55a9e15c-8569-4192-ab36-4571d57be98f)
+![image](https://github.com/nataliah24/Hernandez-Berrios-Portfolio/assets/156723081/bce3556c-cee4-4b1a-a4f7-ab5e29b4fa39)
+
+I uploaded the new data to Tableau to begin working with it. When I did that I could not my viz to look like my sketch #3. It did not let me have the column for "all products" next to the one for "books". So I played around with a few other viz ideas in Tableau.
+
+### Bar graph with Pages ###
+![image](https://github.com/nataliah24/Hernandez-Berrios-Portfolio/assets/156723081/797a83de-b730-4ef1-9797-c3fc5e2c00d6)
+![image](https://github.com/nataliah24/Hernandez-Berrios-Portfolio/assets/156723081/8bc28c2b-c09f-4440-84cf-77639ae4bae0)
+
+The rough draft of the viz above was nice because you could flip the pages back and forth between all products and books. The bar graphs were also color coded (sequential coloring) which lets readers know what HICP values are "good" or "bad". While this draft was good, I still wanted to have the two categories next to each other. 
+
+### Stacked Bars ###
+I also tried stacked bars, where orange was books and blue was all products. This was cool to try but not beneficial to my viz or my reader since it would be confusing to know what is going on. One could think that "books" is a part of "all products" when that is not the case and they are both two distinct categories. 
+![image](https://github.com/nataliah24/Hernandez-Berrios-Portfolio/assets/156723081/98ee68b2-e2ba-4536-87db-2ed1c4d8e21e)
+
+### Getting Closer to Final Viz ###
+I tried to once again put the "all products" and "books" next to each other for every year but could not do it. I got a bar chart that basically had two mini bar charts inside (left for all products, right for books). I added some distinct colors to the bars making green the bars with data closer to 100, and bars with data further from 100 red. This was so readers could tell what HICP indeces were "bad"- meaning they rose a lot, or "good"- meaning they did not rise by much. 
+![image](https://github.com/nataliah24/Hernandez-Berrios-Portfolio/assets/156723081/fc8eef1a-2044-4f92-8d51-c9d2f29a45c4)
+
+To get to my final viz, I realized I needed to change my excel. I went back to excel and created a new data sheet that had "books" and "all products" next to each other (screenshot below). I opened this new data on tableau. When it made the connection my workspace had double column names (i.e "category" "category 1" "year" "year 1" "index" "index 1"...). Having "double" column names allowed me to do the data side by side liked I wanted to. In the next section I will add my final visualization and explain how I did it and why I chose what I did. 
+![image](https://github.com/nataliah24/Hernandez-Berrios-Portfolio/assets/156723081/5599e9b7-4a24-4365-8825-593193bb59fa)
+
+## Final Viz ##
+<div class='tableauPlaceholder' id='viz1707269177575' style='position: relative'><noscript><a href='#'><img alt='Steadfast Pages: HICP Index for Books vs. All Other Products in the EUHICP is the measurement of consumer price inflation within the European Union (EU). Between 2015 to 2020, the price of books experienced a small gradual increase while all other products experienced a rapid price increase.  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;SteadfastPagesHICPIndexforBooksvs_AllOtherProductsintheEU&#47;Sheet12&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SteadfastPagesHICPIndexforBooksvs_AllOtherProductsintheEU&#47;Sheet12' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image'value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;SteadfastPagesHICPIndexforBooksvs_AllOtherProductsintheEU&#47;Sheet12&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1707269177575');var vizElement = divElement.getElementsByTagName('object')[0];               vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
 
 
 
