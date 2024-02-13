@@ -19,3 +19,5 @@ I hope to learn how to use Github and other technical platforms. I also look for
 
 ## Assignment: [Critique By Design](critiquebydesign.md)
 
+## Assignment: [Part 1: Final Project](Part1FinalProject.md)
+
