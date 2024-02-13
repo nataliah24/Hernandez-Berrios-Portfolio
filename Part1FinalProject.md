@@ -60,8 +60,9 @@ Center for American Progress | [URL](https://www.americanprogress.org/article/ci
 American Immigration Council | [URL](https://www.americanimmigrationcouncil.org/research/criminalization-immigration-united-states) | Criminalization fo Immigration
 
 Link to database Excel:
-Profile of the Unauthorized Population MPI.xlsx
-Unauthorized Profiles_ACS 2015-19_State-County-Topline Estimates_Comms.xlsx
+[Profile of the Unauthorized Population MPI](ProfileoftheUnauthorizedPopulationMPI.xlsx) 
+
+[State Profile](UnauthorizedProfiles_ACS2015-19_State-County-ToplineEstimates_Comms.xlsx) 
 
 ## Method and Medium ##
 I plan on completing my final using Tableau and Shorthand. Tableau will be used to develop my graphics (linear graphs, bar graphs, country map, etc) while Shorthand will be used to tell a story with my data. I will use Shorthand to introduce the topic, its relevance, the data, and a call to action. Shorthand will also include call out quotes, where I can add important information such as numbers that stand out in the research. It is also a great way to add images to my project. 
