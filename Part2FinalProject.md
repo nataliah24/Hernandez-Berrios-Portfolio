@@ -25,13 +25,13 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      | What is the topic about? |
-|      | Is there enough human connection for the topic? Does it feel data heavy or is it a good balance?                |
-|      | What did you think of the data visualizations? Are they easy to understand?              |
-|      | Do the data visualizations connect to the topic? |
-|      | After looking over the presentation do you think you have a better understanding of the topic? |
-|      | After looking over the presentation do you feel like you have concrete steps you can take to help the issue? |
-|      | What questions were you left with? Is there anything that was confusing? |
+| Make sure my topic is clear   | What is the topic about? |
+| Make sure my topic is telling a story     | Is there enough human connection for the topic? Does it feel data heavy or is it a good balance?                |
+| Are the viz's clear?     | What did you think of the data visualizations? Are they easy to understand?              |
+| Connectedness    | Do the data visualizations connect to the topic? |
+| Clear topic     | After looking over the presentation do you think you have a better understanding of the topic? |
+| Clear Call to Action     | After looking over the presentation do you feel like you have concrete steps you can take to help the issue? |
+| Clear up any confusions for the final project  | What questions were you left with? Is there anything that was confusing? |
 
 
 
@@ -42,9 +42,14 @@ Text here!
 
 | Questions               | Interview 1                    | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|What is the topic about? | The topic is about undocumented populations living in the U.S. without proper pathways to citizenship despite contributions to the economy and society.|             |             |
+|Is there enough human connection for the topic? Does it feel data heavy or is it a good balance?  | Primarily data-centric. There is one human-centered video, but that’s overlooked by graphs. Suggestion for more human connection, make the connection more clear.  |             |             |
+|What did you think of the data visualizations? Are they easy to understand?| Easy to understand. The map “Where do undocumented immigrants settle in the U.S?” is a bit wonky, however. Maybe make the map static rather than giving it the option to zoom in or out. |             |             |
+|Do the data visualizations connect to the topic?|They do.|
+|After looking over the presentation do you think you have a better understanding of the topic?| Indeed! |
+|After looking over the presentation do you feel like you have concrete steps you can take to help the issue?| Very big-picture steps. Any chance to include community-oriented suggestions to help (i.e. volunteering at a local organization/community center that helps undocumented people. Is there a database that lets you include your zipcode and it pops up with ‘local immigrant assistance centers’ near you or something like that?) |
+|What questions were you left with? Is there anything that was confusing?| The section “The Immigrant Population is just a Fraction…” is unclear whether the statistics refer to undocumented people or immigrants in general (i.e. those with green cards, visas, etc.) at least in the pie chart. Nothing confusing but primarily narrow in depiction of immigrants. |
+
 
 
 # Identified changes for Part III
