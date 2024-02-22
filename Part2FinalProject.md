@@ -14,7 +14,7 @@ Furthermore, some of my data points came from published researched essays so the
 
 <div class='tableauPlaceholder' id='viz1708573360156' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;Part2FinalProjectViz&#47;Viz5_1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Part2FinalProjectViz&#47;Viz5_1' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;Part2FinalProjectViz&#47;Viz5_1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div><script type='text/javascript'>var divElement = document.getElementById('viz1708573360156');var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
 
--One of the challenges I faced when making my visualizations was trying to use piecharts for everything. I ended up using piecharts for most of my data visualizations because I could not think of a better way to present the data. I think data such as percentages of a whole are best represented with piecharts. I tried doing packed bubbles chart for some of the data but it did not make sense. I also tried doing a treemap but it made the data come across discontected and made it hard to compare. 
+- One of the challenges I faced when making my visualizations was trying to use piecharts for everything. I ended up using piecharts for most of my data visualizations because I could not think of a better way to present the data. I think data such as percentages of a whole are best represented with piecharts. I tried doing packed bubbles chart for some of the data but it did not make sense. I also tried doing a treemap but it made the data come across discontected and made it hard to compare. 
 
 
 
@@ -22,7 +22,7 @@ https://github.com/nataliah24/Hernandez-Berrios-Portfolio/assets/156723081/9d8e4
 
 
 
--For my canva graphics, most of the data came from published works such as research analyzing the economy. Then information about immigrants contribution in taxes was reference in many different credible websites so I took that information and made it into a graphic. Canva graphs were pretty easy to navigate and create. I liked how they also gave you many options to transform your data from one type to another. I included two graphics for the information on how many undocumented people are part of the immigrant population because I was not sure which graphic type would look better/get the point across better. I tried a bargraph because I am already using many piecharts to visualize other data. 
+- For my canva graphics, most of the data came from published works such as research analyzing the economy. Then information about immigrants contribution in taxes was reference in many different credible websites so I took that information and made it into a graphic. Canva graphs were pretty easy to navigate and create. I liked how they also gave you many options to transform your data from one type to another. I included two graphics for the information on how many undocumented people are part of the immigrant population because I was not sure which graphic type would look better/get the point across better. I tried a bargraph because I am already using many piecharts to visualize other data. 
 
 
 # User research 
@@ -35,9 +35,9 @@ Policy and Education Professionals - My other target audience are policy and edu
 My first two interviewees are master policy students. I chose policy students as they have been learning about how policies work, how they are passed, and are future policymakers and people who will work in the policy realm. Additionally, one of the interviewees has worked a few years in D.C. so they have been around policy a little more. My last interviewee is a secondary teacher who falls into the category of educational professionals. I am interested in the educational professional’s input and seeing if someone who is not in policy and closer to the broader general public understands the topic and feels like they can do something about it. 
 
 
-*Interviewee 1: 24 year old male master’s policy student
-*Interviewee 2: 24 year old female master’s policy student, worked 2 years in D.C.
-*Interviewee 3: 22 year old male secondary teacher 
+* Interviewee 1: 24 year old male master’s policy student
+* Interviewee 2: 24 year old female master’s policy student, worked 2 years in D.C.
+* Interviewee 3: 22 year old male secondary teacher 
 
 ## Interview script
 
@@ -87,4 +87,13 @@ For the call to action there was mixed feedback. 2 of my 3 interviewees did feel
 | Immigration Policies Section         |  Condense or summarize the information. Basically make it shorter so the viewer does not feel super overwhelmed by all the bullet points and information.      |
 
 Overall I feel pretty good place with my storyboard and wireframes. I feel better now with the suggestions of my users and how I can better the data visualizations. I think making the changes provided above will make my project more cohesive. I also want to note that I decided to keep my topic broad because by making it broad and including a lot of different information I am achieving my goal of informing the public well about this issue and trying to go against biases or perceived notions of the undocumented population. 
+
+## References
+American Immigration Council. (2016, July 18). Adding Up the Billions in Tax Dollars Paid by Undocumented Immigrants. American Immigration Council. https://www.americanimmigrationcouncil.org/research/adding-billions-tax-dollars-paid-undocumented-immigrants
+Center For Migration Studies. (n.d.). State Tool: Center for Migration Studies. Data.cmsny.org. http://data.cmsny.org/Defining Undocumented. (2023). 
+IMMIGRANTS RISING. https://immigrantsrising.org/resource/defining-undocumented/
+Map the Impact of Immigration: U.S. Economic Data & Numbers [MAP] - New American Economy. (n.d.). Data.americanimmigrationcouncil.org. https://data.americanimmigrationcouncil.org/map-the-impact/Migration Policy Institute. (2015, August 18). 
+Unauthorized Immigrant Populations by Country and Region, Top States and Counties of Residence, 2012-16. Migrationpolicy.org. https://www.migrationpolicy.org/programs/data-hub/charts/unauthorized-immigrant-populations-country-and-region-top-state-and-county
+Peri, G., & Zaiour, R. (2021, June 14). Citizenship for Undocumented Immigrants Would Boost U.S. Economic Growth. Center for American Progress; Center for American Progress. https://www.americanprogress.org/article/citizenship-undocumented-immigrants-boost-u-s-economic-growth/
+Rouse, C., Barrow, L., Rinz, K., & Soltas, E. (2021, September 17). The Economic Benefits of Extending Permanent Legal Status to Unauthorized Immigrants. The White House; The White House. https://www.whitehouse.gov/cea/written-materials/2021/09/17/the-economic-benefits-of-extending-permanent-legal-status-to-unauthorized-immigrants/
 
