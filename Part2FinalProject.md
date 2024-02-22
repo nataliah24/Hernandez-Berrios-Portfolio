@@ -3,7 +3,7 @@
 # Storyboard
 For the storyboard, I created a shorthand page. I published the storyboard privately on Shorthand and it can be accessed on the following link:
 
-"https://carnegiemellon.shorthandstories.com/d67d6b01-9707-439a-a466-925b2e2c800b/index.html"
+[Shorthand Storyboard](https://carnegiemellon.shorthandstories.com/d67d6b01-9707-439a-a466-925b2e2c800b/index.html)
 
 When I move on to my final version of the project, I will work on a copy of the draft so the link above should stay the same and not change with the changes I make for Part 3. I really liked using shorthand to create a website to tell a story with my data. I think shorthand is very useful for informative presentations such as this one. It also allows you to continously update it which is nice. 
 
@@ -16,11 +16,9 @@ Furthermore, some of my data points came from published researched essays so the
 
 - One of the challenges I faced when making my visualizations was trying to use piecharts for everything. I ended up using piecharts for most of my data visualizations because I could not think of a better way to present the data. I think data such as percentages of a whole are best represented with piecharts. I tried doing packed bubbles chart for some of the data but it did not make sense. I also tried doing a treemap but it made the data come across discontected and made it hard to compare. 
 
-<video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="https://github.com/nataliah24/Hernandez-Berrios-Portfolio/assets/156723081/9d8e401a-a01a-4204-9095-910cb43b88e0)" type="video/mp4">
-</video>
 
-https://github.com/nataliah24/Hernandez-Berrios-Portfolio/assets/156723081/9d8e401a-a01a-4204-9095-910cb43b88e0
+
+https://github.com/nataliah24/Hernandez-Berrios-Portfolio/assets/156723081/c8c4b712-f539-4b25-b2e6-82d87295adaf
 
 
 
