@@ -1,4 +1,4 @@
-| [Home Page](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/) | [Visualizing Government Debt](datavisualization.md) | [Critique By Design](critiquebydesign.md) | [Part 1: Final Project](Part1FinalProject.md)  | [Part 2: Final Project](Part2FinalProject.md)
+| [Home Page](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/) | [Visualizing Government Debt](datavisualization.md) | [Critique By Design](critiquebydesign.md) | [Part 1: Final Project](Part1FinalProject.md)  | [Part 2: Final Project](Part2FinalProject.md) | [Part 3: Final Project](Part3FinalProject.md)
 # Hernandez-Berrios-Portfolio
 
 # TSWD
@@ -22,4 +22,6 @@ I hope to learn how to use Github and other technical platforms. I also look for
 ## Assignment: [Part 1: Final Project](Part1FinalProject.md)
 
 ## Assignment: [Part 2: Final Project](Part2FinalProject.md)
+
+## Assignment: [Part 3: Final Project](Part3FinalProject.md)
 
