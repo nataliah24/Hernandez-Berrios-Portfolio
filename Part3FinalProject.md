@@ -1,8 +1,8 @@
 | [Home Page](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/) | [Visualizing Government Debt](datavisualization.md) | [Critique By Design](critiquebydesign.md) | [Part 1: Final Project](Part1FinalProject.md) | [Part 2: Final Project](Part2FinalProject.md) | [Part 3: Final Project](Part3FinalProject.md)
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+<script src="https://carnegiemellon.shorthandstories.com/undocumented-realities-advocating-for-immigration-reform-in-the-u-s/embed.js"></script>
 
-Text here!
+https://carnegiemellon.shorthandstories.com/undocumented-realities-advocating-for-immigration-reform-in-the-u-s/index.html
 
 # Changes made since Part II
 After Part II, I made some changes to my presentation.
