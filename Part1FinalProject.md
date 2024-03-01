@@ -1,4 +1,4 @@
-| [Home Page](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/) | [Visualizing Government Debt](datavisualization.md) | [Critique By Design](critiquebydesign.md) | [Part 1: Final Project](Part1FinalProject.md) | [Part 2: Final Project](Part2FinalProject.md) | [Part 3: Final Project](Part3FinalProject.md)
+| [Home Page](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/) | [Visualizing Government Debt](datavisualization.md) | [Critique By Design](critiquebydesign.md) | [Part 1: Final Project](Part1FinalProject.md) | [Part 2: Final Project](Part2FinalProject.md) | [Part 3 Final Project](Part3FinalProject.md)
 
 # Final Project Part 1
 
