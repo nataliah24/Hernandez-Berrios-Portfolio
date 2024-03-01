@@ -1,4 +1,4 @@
-| [Home Page](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/) | [Visualizing Government Debt](datavisualization.md) | [Critique by Design](critiquebydesign.md)
+| [Home Page](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/) | [Visualizing Government Debt](datavisualization.md) | [Critique by Design](critiquebydesign.md) | [Part 1: Final Project](Part1FinalProject.md) | [Part 2: Final Project](Part2FinalProject.md) | [Part 3: Final Project](Part3FinalProject.md)
 # Critique by Design
 In this assignment we chose a graphic for Makeover Monday to redesign. Below is the graphic I chose from the Eurostat page titled "Pick Up a Book and Read". 
 
