@@ -1,4 +1,5 @@
-| [Home Page](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/) | [Visualizing Government Debt](datavisualization.md) | [Critique By Design](critiquebydesign.md) 
+| [Home Page](https://nataliah24.github.io/Hernandez-Berrios-Portfolio/) | [Visualizing Government Debt](datavisualization.md) | [Critique By Design](critiquebydesign.md) | [Part 1: Final Project](Part1FinalProject.md) | [Part 2: Final Project](Part2FinalProject.md) | [Part 3: Final Project](Part3FinalProject.md) 
+
 # General Government Debt, 2015
 <iframe src="https://data.oecd.org/chart/7kig" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</iframe>
 
